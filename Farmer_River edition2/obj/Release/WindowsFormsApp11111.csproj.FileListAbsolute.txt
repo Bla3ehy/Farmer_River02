@@ -1,0 +1,8 @@
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\bin\Release\WindowsFormsApp11111.exe.config
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\bin\Release\WindowsFormsApp11111.exe
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\bin\Release\WindowsFormsApp11111.pdb
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\obj\Release\WindowsFormsApp11111.Form1.resources
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\obj\Release\WindowsFormsApp11111.Properties.Resources.resources
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\obj\Release\WindowsFormsApp11111.csproj.GenerateResource.cache
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\obj\Release\WindowsFormsApp11111.exe
+C:\Users\aa415\source\repos\1111\WindowsFormsApp11111\obj\Release\WindowsFormsApp11111.pdb
